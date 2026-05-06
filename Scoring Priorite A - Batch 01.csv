@@ -1,0 +1,21 @@
+﻿id,organisation,segment,priority,score_fit,score_urgence,score_budget,score_total,justification,decision
+ADM-001,CPAS de Mons,Administration,A,5,5,3,13,Valide=oui; email=True; phone=True,contacter_48h
+ADM-002,CPAS de Soignies,Administration,A,5,5,3,13,Valide=oui; email=True; phone=True,contacter_48h
+ADM-008,CPAS de La Louviere,Administration,A,5,4,3,12,Valide=partiel; email=False; phone=True,contacter_48h
+ADM-011,CPAS de Mons,Administration,A,5,5,3,13,Valide=oui; email=True; phone=True,contacter_48h
+ADM-012,CPAS de Soignies,Administration,A,5,5,3,13,Valide=oui; email=True; phone=True,contacter_48h
+ADM-018,CPAS de La Louviere,Administration,A,5,4,3,12,Valide=partiel; email=False; phone=True,contacter_48h
+JSP-001,Infor Jeunes Mons,Institution sociale,A,5,5,3,13,Valide=oui; email=True; phone=True,contacter_48h
+JSP-011,Service de Protection de la Jeunesse Mons,Institution sociale,A,5,5,3,13,Valide=oui; email=True; phone=True,contacter_48h
+SDF-006,Relais social urbain de La Louviere,Institution sociale,A,5,4,3,12,Valide=partiel; email=False; phone=True,contacter_48h
+SDF-009,Abri de nuit - CPAS de Mons,Institution sociale,A,5,5,3,13,Valide=oui; email=True; phone=True,contacter_48h
+SNT-008,Service de sante mentale Mons (a confirmer),Sante,A,5,2,3,10,Valide=non; email=False; phone=False,contacter_semaine
+SNT-009,Centre Hospitalier Saint-Bernard (a confirmer),Sante,A,5,2,3,10,Valide=non; email=False; phone=False,contacter_semaine
+ECO-005,Athenee Royal d'Ath - section primaire,Education,A,5,5,2,12,Valide=oui; email=True; phone=True,contacter_48h
+ECO-006,Athenee Royal Robert Campin - section primaire,Education,A,5,5,2,12,Valide=oui; email=True; phone=True,contacter_48h
+ECO-007,Ecole communale de Mons Le Trieu,Education,A,5,5,2,12,Valide=oui; email=True; phone=True,contacter_48h
+ECO-015,Athenee Royal d'Ath - section primaire,Education,A,5,5,2,12,Valide=oui; email=True; phone=True,contacter_48h
+UNI-001,Universite de Mons (UMONS),Education superieure,A,5,4,2,11,Valide=partiel; email=False; phone=True,contacter_semaine
+MED-001,TeleMB,Media,A,5,5,1,11,Valide=oui; email=True; phone=True,contacter_semaine
+MED-002,RTBF Mons,Media,A,5,4,1,10,Valide=partiel; email=False; phone=True,contacter_semaine
+MED-003,Sudinfo,Media,A,5,4,1,10,Valide=partiel; email=True; phone=True,contacter_semaine

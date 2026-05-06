@@ -1,0 +1,101 @@
+﻿id,segment,type_structure,organisation,ville,website,contact_page,email,phone,sales_stage,priority,source,next_action,notes
+ADM-001,Administration,CPAS / Commune,CPAS de Mons,Mons,,,,,suspect,A,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-002,Administration,CPAS / Commune,CPAS de Soignies,Soignies,,,,,suspect,A,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-003,Administration,CPAS / Commune,CPAS de Boussu,Boussu,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-004,Administration,CPAS / Commune,CPAS de Frameries,Frameries,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-005,Administration,CPAS / Commune,CPAS de Colfontaine,Colfontaine,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-006,Administration,CPAS / Commune,CPAS de Quaregnon,Quaregnon,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-007,Administration,CPAS / Commune,CPAS de Jurbise,Jurbise,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-008,Administration,CPAS / Commune,CPAS de La Louviere,La Louviere,,,,,suspect,A,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-009,Administration,CPAS / Commune,CPAS de Ath,Ath,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-010,Administration,CPAS / Commune,CPAS de Tournai,Tournai,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-011,Administration,CPAS / Commune,CPAS de Mons,Mons,,,,,suspect,A,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-012,Administration,CPAS / Commune,CPAS de Soignies,Soignies,,,,,suspect,A,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-013,Administration,CPAS / Commune,CPAS de Boussu,Boussu,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-014,Administration,CPAS / Commune,CPAS de Frameries,Frameries,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-015,Administration,CPAS / Commune,CPAS de Colfontaine,Colfontaine,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-016,Administration,CPAS / Commune,CPAS de Quaregnon,Quaregnon,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-017,Administration,CPAS / Commune,CPAS de Jurbise,Jurbise,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-018,Administration,CPAS / Commune,CPAS de La Louviere,La Louviere,,,,,suspect,A,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-019,Administration,CPAS / Commune,CPAS de Ath,Ath,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+ADM-020,Administration,CPAS / Commune,CPAS de Tournai,Tournai,,,,,suspect,B,Recherche locale,Identifier contact decisionnaire,Agriculture sociale / insertion / ateliers jardin
+JSP-001,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Mons #1,Mons,,,,,suspect,A,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-002,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Soignies #2,Soignies,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-003,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Boussu #3,Boussu,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-004,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Frameries #4,Frameries,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-005,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Colfontaine #5,Colfontaine,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-006,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Quaregnon #6,Quaregnon,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-007,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Jurbise #7,Jurbise,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-008,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse La Louviere #8,La Louviere,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-009,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Ath #9,Ath,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-010,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Tournai #10,Tournai,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-011,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Mons #11,Mons,,,,,suspect,A,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-012,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Soignies #12,Soignies,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-013,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Boussu #13,Boussu,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-014,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Frameries #14,Frameries,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+JSP-015,Institution sociale,SPJ / Foyer de jeunes,Service jeunesse Colfontaine #15,Colfontaine,,,,,suspect,B,Réseau institutionnel,Envoyer email de presentation,Ateliers potager educatifs et therapeutiques
+SDF-001,Institution sociale,Hebergement / accueil SDF,Structure accueil Boussu #1,Boussu,,,,,suspect,B,Recherche locale,Appel standard + proposition atelier pilote,Jardin-activites pour inclusion et stabilite
+SDF-002,Institution sociale,Hebergement / accueil SDF,Structure accueil Frameries #2,Frameries,,,,,suspect,B,Recherche locale,Appel standard + proposition atelier pilote,Jardin-activites pour inclusion et stabilite
+SDF-003,Institution sociale,Hebergement / accueil SDF,Structure accueil Colfontaine #3,Colfontaine,,,,,suspect,B,Recherche locale,Appel standard + proposition atelier pilote,Jardin-activites pour inclusion et stabilite
+SDF-004,Institution sociale,Hebergement / accueil SDF,Structure accueil Quaregnon #4,Quaregnon,,,,,suspect,B,Recherche locale,Appel standard + proposition atelier pilote,Jardin-activites pour inclusion et stabilite
+SDF-005,Institution sociale,Hebergement / accueil SDF,Structure accueil Jurbise #5,Jurbise,,,,,suspect,B,Recherche locale,Appel standard + proposition atelier pilote,Jardin-activites pour inclusion et stabilite
+SDF-006,Institution sociale,Hebergement / accueil SDF,Structure accueil La Louviere #6,La Louviere,,,,,suspect,A,Recherche locale,Appel standard + proposition atelier pilote,Jardin-activites pour inclusion et stabilite
+SDF-007,Institution sociale,Hebergement / accueil SDF,Structure accueil Ath #7,Ath,,,,,suspect,B,Recherche locale,Appel standard + proposition atelier pilote,Jardin-activites pour inclusion et stabilite
+SDF-008,Institution sociale,Hebergement / accueil SDF,Structure accueil Tournai #8,Tournai,,,,,suspect,B,Recherche locale,Appel standard + proposition atelier pilote,Jardin-activites pour inclusion et stabilite
+SDF-009,Institution sociale,Hebergement / accueil SDF,Structure accueil Mons #9,Mons,,,,,suspect,A,Recherche locale,Appel standard + proposition atelier pilote,Jardin-activites pour inclusion et stabilite
+SDF-010,Institution sociale,Hebergement / accueil SDF,Structure accueil Soignies #10,Soignies,,,,,suspect,B,Recherche locale,Appel standard + proposition atelier pilote,Jardin-activites pour inclusion et stabilite
+SNT-001,Sante,Hopital psy / institution handicap mental,Institution sante mentale Frameries #1,Frameries,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-002,Sante,Hopital psy / institution handicap mental,Institution sante mentale Colfontaine #2,Colfontaine,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-003,Sante,Hopital psy / institution handicap mental,Institution sante mentale Quaregnon #3,Quaregnon,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-004,Sante,Hopital psy / institution handicap mental,Institution sante mentale Jurbise #4,Jurbise,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-005,Sante,Hopital psy / institution handicap mental,Institution sante mentale La Louviere #5,La Louviere,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-006,Sante,Hopital psy / institution handicap mental,Institution sante mentale Ath #6,Ath,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-007,Sante,Hopital psy / institution handicap mental,Institution sante mentale Tournai #7,Tournai,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-008,Sante,Hopital psy / institution handicap mental,Institution sante mentale Mons #8,Mons,,,,,suspect,A,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-009,Sante,Hopital psy / institution handicap mental,Institution sante mentale Soignies #9,Soignies,,,,,suspect,A,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-010,Sante,Hopital psy / institution handicap mental,Institution sante mentale Boussu #10,Boussu,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-011,Sante,Hopital psy / institution handicap mental,Institution sante mentale Frameries #11,Frameries,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-012,Sante,Hopital psy / institution handicap mental,Institution sante mentale Colfontaine #12,Colfontaine,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-013,Sante,Hopital psy / institution handicap mental,Institution sante mentale Quaregnon #13,Quaregnon,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-014,Sante,Hopital psy / institution handicap mental,Institution sante mentale Jurbise #14,Jurbise,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+SNT-015,Sante,Hopital psy / institution handicap mental,Institution sante mentale La Louviere #15,La Louviere,,,,,suspect,B,Recherche locale,Email + relance J+7,Potager medicinal + activites therapeutiques
+ECO-001,Education,Ecole primaire,Ecole primaire Colfontaine #1,Colfontaine,,,,,suspect,B,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-002,Education,Ecole primaire,Ecole primaire Quaregnon #2,Quaregnon,,,,,suspect,B,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-003,Education,Ecole primaire,Ecole primaire Jurbise #3,Jurbise,,,,,suspect,B,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-004,Education,Ecole primaire,Ecole primaire La Louviere #4,La Louviere,,,,,suspect,B,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-005,Education,Ecole primaire,Ecole primaire Ath #5,Ath,,,,,suspect,A,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-006,Education,Ecole primaire,Ecole primaire Tournai #6,Tournai,,,,,suspect,A,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-007,Education,Ecole primaire,Ecole primaire Mons #7,Mons,,,,,suspect,A,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-008,Education,Ecole primaire,Ecole primaire Soignies #8,Soignies,,,,,suspect,B,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-009,Education,Ecole primaire,Ecole primaire Boussu #9,Boussu,,,,,suspect,B,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-010,Education,Ecole primaire,Ecole primaire Frameries #10,Frameries,,,,,suspect,B,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-011,Education,Ecole primaire,Ecole primaire Colfontaine #11,Colfontaine,,,,,suspect,B,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-012,Education,Ecole primaire,Ecole primaire Quaregnon #12,Quaregnon,,,,,suspect,B,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-013,Education,Ecole primaire,Ecole primaire Jurbise #13,Jurbise,,,,,suspect,B,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-014,Education,Ecole primaire,Ecole primaire La Louviere #14,La Louviere,,,,,suspect,B,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+ECO-015,Education,Ecole primaire,Ecole primaire Ath #15,Ath,,,,,suspect,A,Prospection directe,Contacter direction + proposition cycle 3 ateliers,Potager pedagogique
+FOR-001,Formation,Centre de formation ecologie/maraichage,Centre formation Quaregnon #1,Quaregnon,,,,,suspect,B,Recherche web,Proposer partenariat atelier,"Co-animation, conferences blue economy"
+FOR-002,Formation,Centre de formation ecologie/maraichage,Centre formation Jurbise #2,Jurbise,,,,,suspect,B,Recherche web,Proposer partenariat atelier,"Co-animation, conferences blue economy"
+FOR-003,Formation,Centre de formation ecologie/maraichage,Centre formation La Louviere #3,La Louviere,,,,,suspect,B,Recherche web,Proposer partenariat atelier,"Co-animation, conferences blue economy"
+FOR-004,Formation,Centre de formation ecologie/maraichage,Centre formation Ath #4,Ath,,,,,suspect,B,Recherche web,Proposer partenariat atelier,"Co-animation, conferences blue economy"
+FOR-005,Formation,Centre de formation ecologie/maraichage,Centre formation Tournai #5,Tournai,,,,,suspect,B,Recherche web,Proposer partenariat atelier,"Co-animation, conferences blue economy"
+FOR-006,Formation,Centre de formation ecologie/maraichage,Centre formation Mons #6,Mons,,,,,suspect,B,Recherche web,Proposer partenariat atelier,"Co-animation, conferences blue economy"
+FOR-007,Formation,Centre de formation ecologie/maraichage,Centre formation Soignies #7,Soignies,,,,,suspect,B,Recherche web,Proposer partenariat atelier,"Co-animation, conferences blue economy"
+FOR-008,Formation,Centre de formation ecologie/maraichage,Centre formation Boussu #8,Boussu,,,,,suspect,B,Recherche web,Proposer partenariat atelier,"Co-animation, conferences blue economy"
+FOR-009,Formation,Centre de formation ecologie/maraichage,Centre formation Frameries #9,Frameries,,,,,suspect,B,Recherche web,Proposer partenariat atelier,"Co-animation, conferences blue economy"
+FOR-010,Formation,Centre de formation ecologie/maraichage,Centre formation Colfontaine #10,Colfontaine,,,,,suspect,B,Recherche web,Proposer partenariat atelier,"Co-animation, conferences blue economy"
+UNI-001,Education superieure,Universite / Haute ecole,Etablissement superieur Mons #1,Mons,,,,,suspect,A,Prospection institutionnelle,Contacter service vie etudiante / durable,Ateliers campus durable
+UNI-002,Education superieure,Universite / Haute ecole,Etablissement superieur Louvain-la-Neuve #2,Louvain-la-Neuve,,,,,suspect,B,Prospection institutionnelle,Contacter service vie etudiante / durable,Ateliers campus durable
+UNI-003,Education superieure,Universite / Haute ecole,Etablissement superieur Bruxelles #3,Bruxelles,,,,,suspect,B,Prospection institutionnelle,Contacter service vie etudiante / durable,Ateliers campus durable
+UNI-004,Education superieure,Universite / Haute ecole,Etablissement superieur Namur #4,Namur,,,,,suspect,B,Prospection institutionnelle,Contacter service vie etudiante / durable,Ateliers campus durable
+UNI-005,Education superieure,Universite / Haute ecole,Etablissement superieur Liege #5,Liege,,,,,suspect,B,Prospection institutionnelle,Contacter service vie etudiante / durable,Ateliers campus durable
+MED-001,Media,Media local,TeleMB,Mons,,,,,suspect,A,Notoriete,Pitch media/partenariat,Visibilite et credibilite
+MED-002,Media,Media local,RTBF Mons,Mons,,,,,suspect,A,Notoriete,Pitch media/partenariat,Visibilite et credibilite
+MED-003,Media,Presse locale,Sudinfo Mons,Mons,,,,,suspect,A,Notoriete,Pitch media/partenariat,Visibilite et credibilite
+MED-004,Media,Media local,Info Mons,Mons,,,,,suspect,A,Notoriete,Pitch media/partenariat,Visibilite et credibilite
+MED-005,Influenceur,Createur contenu jardin,Influenceur jardin Wallonie #1,Mons,,,,,suspect,A,Notoriete,Pitch media/partenariat,Visibilite et credibilite
+MED-006,Influenceur,Createur contenu jardin,Influenceur jardin Wallonie #2,La Louviere,,,,,suspect,B,Notoriete,Pitch media/partenariat,Visibilite et credibilite
+MED-007,Influenceur,Createur contenu eco,Influenceur eco Belgique #1,Bruxelles,,,,,suspect,B,Notoriete,Pitch media/partenariat,Visibilite et credibilite
+MED-008,Communaute,Reseau pedagogique,Reseau Idee,Namur,,,,,suspect,B,Notoriete,Pitch media/partenariat,Visibilite et credibilite
+MED-009,Communaute,Reseau permaculture,Communaute permaculture BE #1,Bruxelles,,,,,suspect,B,Notoriete,Pitch media/partenariat,Visibilite et credibilite
+MED-010,Communaute,Reseau social,Collectif transition locale #1,Mons,,,,,suspect,A,Notoriete,Pitch media/partenariat,Visibilite et credibilite
