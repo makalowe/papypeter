@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "Lancement des ateliers potager en école",
+      "summary": "Déploiement des premiers ateliers de semis et plantation avec suivi pédagogique.",
+      "publish_at": "2026-04-20T08:00:00+02:00",
+      "url": "#"
+    },
+    {
+      "title": "Jardins thérapeutiques: focus plantes médicinales",
+      "summary": "Nouveaux modules autour de la culture, récolte et usages simples des plantes.",
+      "publish_at": "2026-04-23T10:00:00+02:00",
+      "url": "#"
+    },
+    {
+      "title": "Conférence Blue Economy - session Namur",
+      "summary": "Conférence inspirée de Gunter Pauli sur les modèles régénératifs locaux.",
+      "publish_at": "2026-05-05T18:30:00+02:00",
+      "url": "#"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Env
+.env
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Local raw media / archives (not for GitHub)
+ZION/
+blue  eco/
+616102562_18181316185366047_1996778032998761048_n.jpg
+nul
+node_modules/
+photo videos/
+*.pdf
+*.jpg
+*.png
+*.webp
+*.mp4
