@@ -1,25 +1,6 @@
-# Sprint Current
+# Sprint en cours — Papy Peter
 
-## Periode
-- Debut:
-- Fin:
-
-## Objectif sprint
-
-## Top 3 priorites
-1.
-2.
-3.
-
-## Definition of Done
-- [ ]
-- [ ]
-- [ ]
-
-## Risques / blocages
-- 
-
-## Prochaines actions (48h)
-1.
-2.
-3.
+## Priorites
+1. Configurer Formspree (fait)
+2. Creer articles blog SEO
+3. Enrichir galerie avant/apres

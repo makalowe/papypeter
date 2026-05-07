@@ -52,5 +52,8 @@ scp -r ./site/* user@TON_IP_VPS:/var/www/zion-garden/
 
 ## 9) Post-déploiement marketing
 - Remplacer `GTM-XXXXXXX` dans les pages par l'ID réel GTM
-- Remplacer `REPLACE_WITH_YOUR_FORM_ID` par l'ID Formspree
+- ✅ Formspree déjà configuré (ID: fa222847ba1b23bc)
+- ✅ Numéros de téléphone mis à jour (+32 466 33 79 32)
+- ✅ Sitemap enrichi (7 pages)
+- ✅ WhatsApp configuré
 - Soumettre `sitemap.xml` dans Google Search Console

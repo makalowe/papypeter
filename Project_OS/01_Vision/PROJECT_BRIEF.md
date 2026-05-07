@@ -1,21 +1,10 @@
-# Project Brief
-
-## Nom du projet
+# Project Brief — Papy Peter
 
 ## Mission
+Permaculture terrain, jardins therapeutiques et conferences Blue Economy en Wallonie
 
-## Public cible
+## Stack technique
+Site statique HTML/CSS/JS + GTM + Formspree + Hostinger VPS
 
-## Probleme principal a resoudre
-
-## Proposition de valeur
-
-## Objectifs 90 jours
-1.
-2.
-3.
-
-## KPI principaux
-1.
-2.
-3.
+## Etat actuel
+Site en ligne, prospection CRM active, contenu en cours
